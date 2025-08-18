@@ -31,8 +31,8 @@ Passionate about software quality, I enjoy designing test cases, executing test 
 - Documented bugs and tracked issues with **Excel**.  
 
 ### 🔸 [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)  
--Built and executed API test collections in Postman for authentication, contact creation, and data retrieval endpoints.
--Implemented data-driven testing with environment variables to validate multiple scenarios efficiently
+- Built and executed API test collections in Postman for authentication, contact creation, and data retrieval endpoints.
+- Implemented data-driven testing with environment variables to validate multiple scenarios efficiently
  
 
 ---
