@@ -15,10 +15,10 @@ Passionate about software quality, I enjoy designing test cases, executing test 
 ## 🛠️ Technical Skills  
 - **Manual Testing:** Test Case Design, Bug Reporting, Regression Testing  
 - **Automation:** Selenium WebDriver, TestNG, Java, Eclipse  
-- **API Testing:** Postman, Newman, REST APIs  
+- **API Testing:** Postman, REST APIs  
 - **Database Testing:** MySQL Workbench, SQL Queries  
 - **Performance & Mobile Testing:** JMeter (basic), Mobile App Testing  
-- **Tools:** Jira, Git, Agile/Scrum  
+- **Tools:** Jira, GitHub, Agile/Scrum  
 
 ---
 
