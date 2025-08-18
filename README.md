@@ -1,13 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ahmad Badaha</h1>
-<h3 align="center">A passionate QA Engineer</h3>
+# 👋 Hi, I’m [Your Name]  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmad-badaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-badaha/" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me  
+I am an aspiring **QA Engineer** with hands-on training in **manual testing, API testing, automation, and performance testing**.  
+Passionate about software quality, I enjoy designing test cases, executing test plans, and automating workflows to ensure reliable, bug-free applications.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- 🔍 Skilled in **manual & automation testing**  
+- ⚙️ Experienced with **Postman, Selenium, TestNG, MySQL, JMeter**  
+- 📊 Familiar with **Agile/Scrum** methodologies and defect tracking tools  
+- 🎯 Currently working on QA projects like **OrangeHRM** and **Contact List App**  
+- 🌱 Always learning and improving my testing skills  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abadaha&show_icons=true&locale=en&layout=compact" alt="abadaha" /></p>
+---
 
+## 🛠️ Technical Skills  
+- **Manual Testing:** Test Case Design, Bug Reporting, Regression Testing  
+- **Automation:** Selenium WebDriver, TestNG, Java, Eclipse  
+- **API Testing:** Postman, Newman, REST APIs  
+- **Database Testing:** MySQL Workbench, SQL Queries  
+- **Performance & Mobile Testing:** JMeter (basic), Mobile App Testing  
+- **Tools:** Jira, Git, Agile/Scrum  
+
+---
+
+## 📂 Projects  
+
+### 🔸 [OrangeHRM Web Application](https://www.orangehrm.com/)  
+- Designed and executed test cases for core HR modules (login, employee management, leave requests).  
+- Automated regression tests using **Selenium, Java, and TestNG**.  
+- Documented bugs and tracked issues with **Jira**.  
+
+### 🔸 [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)  
+- Created and executed **API test collections** using Postman.  
+- Validated backend data with **MySQL queries**.  
+- Automated API test runs and generated reports with **Newman**.  
+
+---
+
+## 🎓 Education & Training  
+**QA Engineering Program – Axsos Academy (2025)**  
+- Manual Testing & Documentation  
+- API Testing (Postman, MySQL Database Validation)  
+- Automation (Java, Selenium, TestNG, Eclipse)  
+- Mobile Testing & Performance Testing  
+
+---
+
+## 📫 Let’s Connect  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ahmad-badaha/](#)  
+- 📧 Email: badaha.22@gmail.com  
+
+---
+✨ *“Quality is never an accident; it is always the result of intelligent effort.”*  
