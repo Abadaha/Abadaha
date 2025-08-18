@@ -24,7 +24,7 @@ Passionate about software quality, I enjoy designing test cases, executing test 
 
 ## 📂 Projects  
 
-### 🔸 [OrangeHRM Web Application]([https://github.com/Abadaha/OrangeHRM-Functional-Testing/])  
+### 🔸 [OrangeHRM Web Application](https://github.com/Abadaha/OrangeHRM-Functional-Testing)  
 - Designed and executed test cases for core HR modules (login, employee management, leave requests).  
 - Designed and executed manual test cases for core modules such as login, employee management, and leave requests.
 - Created test documentation (test scenarios, cases, and bug reports) to track and validate defects
