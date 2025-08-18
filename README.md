@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m [Ahmad Badaha]  
 
 ## 👨‍💻 About Me  
 I am an aspiring **QA Engineer** with hands-on training in **manual testing, API testing, automation, and performance testing**.  
@@ -26,13 +26,14 @@ Passionate about software quality, I enjoy designing test cases, executing test 
 
 ### 🔸 [OrangeHRM Web Application](https://www.orangehrm.com/)  
 - Designed and executed test cases for core HR modules (login, employee management, leave requests).  
-- Automated regression tests using **Selenium, Java, and TestNG**.  
-- Documented bugs and tracked issues with **Jira**.  
+- Designed and executed manual test cases for core modules such as login, employee management, and leave requests.
+- Created test documentation (test scenarios, cases, and bug reports) to track and validate defects
+- Documented bugs and tracked issues with **Excel**.  
 
 ### 🔸 [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)  
-- Created and executed **API test collections** using Postman.  
-- Validated backend data with **MySQL queries**.  
-- Automated API test runs and generated reports with **Newman**.  
+-Built and executed API test collections in Postman for authentication, contact creation, and data retrieval endpoints.
+-Implemented data-driven testing with environment variables to validate multiple scenarios efficiently
+ 
 
 ---
 
