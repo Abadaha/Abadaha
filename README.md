@@ -24,15 +24,16 @@ Passionate about software quality, I enjoy designing test cases, executing test 
 
 ## 📂 Projects  
 ###  🔸[E-Skooly_selenium-test-automation-tesNG-pom](https://github.com/Abadaha/E-Skooly_selenium-test-automation-tesNG-pom)   | Automation QA Engineer |
-Automation Testing with Selenium & TestNG
+-Automation Testing with Selenium & TestNG
 
-Developed automation scripts using Selenium WebDriver, Java, and TestNG for modules such as login, student registration, and employee management.
+-Developed automation scripts using Selenium WebDriver, Java, and TestNG for modules such as login, student registration, and employee management.
 
-Implemented a Data-Driven Framework to test multiple datasets efficiently.
+-Implemented a Data-Driven Framework to test multiple datasets efficiently.
 
-Configured automation execution in Eclipse and integrated reports for tracking test results.
+-Configured automation execution in Eclipse and integrated reports for tracking test results.
 
-Enhanced regression testing coverage by automating repetitive test cases, reducing manual effort by 40%.
+-Enhanced regression testing coverage by automating repetitive test cases, reducing manual effort by 40%.
+
 ### 🔸 [OrangeHRM Web Application](https://github.com/Abadaha/OrangeHRM-Functional-Testing)  
 - Designed and executed test cases for core HR modules (login, employee management, leave requests).  
 - Designed and executed manual test cases for core modules such as login, employee management, and leave requests.
