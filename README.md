@@ -23,7 +23,7 @@ Passionate about software quality, I enjoy designing test cases, executing test 
 ---
 
 ## 📂 Projects  
-### 🔸E-School Management System |(https://github.com/Abadaha/E-Skooly_selenium-test-automation-tesNG-pom) | Automation QA Engineer |
+###  🔸[E-Skooly_selenium-test-automation-tesNG-pom](https://github.com/Abadaha/E-Skooly_selenium-test-automation-tesNG-pom)   | Automation QA Engineer |
 Automation Testing with Selenium & TestNG
 
 Developed automation scripts using Selenium WebDriver, Java, and TestNG for modules such as login, student registration, and employee management.
